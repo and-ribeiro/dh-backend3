@@ -20,10 +20,10 @@ func main() {
 	racaoHamster := funcHamster(3)
 	racaoTarantula := funcTarantula(3)
 
-	fmt.Println("A ração necessária é de: ", racaoCachorro, " gramas")
-	fmt.Println("A ração necessária é de: ", racaoGato, " gramas")
-	fmt.Println("A ração necessária é de: ", racaoHamster, " gramas")
-	fmt.Println("A ração necessária é de: ", racaoTarantula, " gramas")
+	fmt.Println("A ração necessária é de:", racaoCachorro, "gramas")
+	fmt.Println("A ração necessária é de:", racaoGato, "gramas")
+	fmt.Println("A ração necessária é de:", racaoHamster, "gramas")
+	fmt.Println("A ração necessária é de:", racaoTarantula, "gramas")
 
 }
 
